@@ -1,1 +1,1 @@
-print " GoodBye"
+print ("GoodBye")
